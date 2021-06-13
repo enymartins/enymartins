@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📍From Manaus, AM, Brazil
+📍I'm from Manaus, AM, Brazil
 <br>
 👩🏻‍💻Falling in love with technology every single day.
