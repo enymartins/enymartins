@@ -1,4 +1,8 @@
 ### Hey! 👋
+<div>
+  <a href="https://github.com/enymartins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enymartins&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eny-martins/)](https://www.linkedin.com/in/eny-martins/)
 
