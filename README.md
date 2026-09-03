@@ -15,7 +15,7 @@ Node.js · TypeScript · NestJS · Python · Go
 PostgreSQL · MongoDB · MySQL · Redis
 
 **Cloud & Infrastructure**
-AWS · Docker · Kubernetes · Terraform
+AWS · Docker
 
 **Currently learning**
 System Design · Distributed Systems · Cloud Architecture
